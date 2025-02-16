@@ -1,0 +1,6 @@
+mod-uber-gta-aml/
+├── README.md
+├── scripts/
+│   └── mod_script.cs
+└── assets/
+    └── vehicle_texture.png
